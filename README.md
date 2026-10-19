@@ -1,2 +1,3 @@
 - Exercise 1: [hrmAdminPage.java](./app/src/main/java/locator/excercise/hrmAdminPage.java) => PASSED: 21/21
 - Exercise 2: [airbnbHomePage.java](./app/src/main/java/locator/excercise/airbnbHomePage.java) => PASSED: 14/14
+- Exercise 3: [amazonSearchResultPage.java](./app/src/main/java/locator/excercise/amazonSearchResultPage.java) => PASSED: 14/14
